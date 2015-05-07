@@ -1,0 +1,2 @@
+# bgg
+BoardGameGeek API
